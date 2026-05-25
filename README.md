@@ -1,4 +1,7 @@
 # Task Management Web
+![Next.js](https://img.shields.io/badge/Next.js-16-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-4-cyan)
 
 ## Setup
 
